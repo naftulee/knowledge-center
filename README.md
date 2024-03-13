@@ -1,6 +1,6 @@
-## LivePerson Knowledge Center
+## Knowledge Center
 
-This repository generates LivePerson's Knowledge Center, which can be found at **TBD**. The site is generated using [Jekyll](https://jekyllrb.com/). If you find an issue with the documentation, site structure, meta or anything else, please open an issue and we'll respond as soon as possible!
+This repository generates Knowledge Center, which can be found at **TBD**. The site is generated using [Jekyll](https://jekyllrb.com/). If you find an issue with the documentation, site structure, meta or anything else, please open an issue and we'll respond as soon as possible!
 
 ### Building the Site Locally
 
@@ -22,6 +22,4 @@ All you need to run in consequent builds of the site is `bundle exec jekyll serv
 
 **Note**: changes that alter site navigation or other changes that change the site as a whole might not show up when using `--incremental`. If that occurs, simply "kill" the build and run `bundle exec jekyll serve` without the suffix.
 
-### Licensing
 
-All usage of the contents, documentation or code found in this repository is subject to the [LivePerson API Terms of Use](https://www.liveperson.com/policies/apitou). Please use the link above to read them carefully before utilizing the site.
